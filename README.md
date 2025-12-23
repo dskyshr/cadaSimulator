@@ -3,7 +3,7 @@
 # DEMO
 # Features
 # Requirement
-Google Colab enviroment or other Pysthon3 enviroment.
+Google Colab enviroment or other Python3 enviroment.
 # Installation
 "!git clone https://github.com/dskyshr/cadaSimulator.git" on the execution environment of Google Colab.  
 If you want to use on other Python enviroment, conver .ipynb files .py files after downloading the contents in this repository.
