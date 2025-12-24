@@ -1,5 +1,5 @@
 # googleColab-cadaSimulator
-"cadaSimulator" is a simulator to calculate the ex-post consumption rate (= ex-ante match size/the number of all capacities) for CADA algorithm. This simulator is expected to be run on the enviroment of Google Colab. The consumption rates of DA-STB and DA-MTB will be derived simultaneously. After calculating consumption rate, the graph to compare above 3 ways will be drawn.
+"cadaSimulator" is a simulator to calculate the ex-post consumption rate (= ex-post match size/the number of all capacities) for CADA algorithm. This simulator is expected to be run on the enviroment of Google Colab. The consumption rates of DA-STB and DA-MTB will be derived simultaneously. After calculating consumption rate, the graph to compare above 3 ways will be drawn.
 # DEMO
 # Features
 # Requirement
